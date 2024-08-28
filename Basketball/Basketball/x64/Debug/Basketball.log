@@ -1,4 +1,2 @@
 ﻿  main.cpp
-C:\Users\msi\OneDrive\Рабочий стол\AllCPP\C++\Basketball\Basketball\Basketball\main.cpp(441,1): warning C4715: playerAttack: значение возвращается не при всех путях выполнения
-C:\Users\msi\OneDrive\Рабочий стол\AllCPP\C++\Basketball\Basketball\Basketball\main.cpp(696,1): warning C4715: opponentAttack: значение возвращается не при всех путях выполнения
-  Basketball.vcxproj -> C:\Users\msi\OneDrive\Рабочий стол\AllCPP\C++\Basketball\Basketball\x64\Debug\Basketball.exe
+  Basketball.vcxproj -> C:\Users\msi\my_dir\Basketball\x64\Debug\Basketball.exe

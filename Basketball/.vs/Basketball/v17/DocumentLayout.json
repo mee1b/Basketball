@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\msi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AllCPP\\C\u002B\u002B\\Basketball\\Basketball\\",
+  "WorkspaceRootPath": "C:\\Users\\msi\\my_dir\\Basketball\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D831CF6-6446-40AB-A584-588C74049DE0}|Basketball\\Basketball.vcxproj|C:\\Users\\msi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AllCPP\\C\u002B\u002B\\Basketball\\Basketball\\Basketball\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3D831CF6-6446-40AB-A584-588C74049DE0}|Basketball\\Basketball.vcxproj|C:\\Users\\msi\\my_dir\\Basketball\\Basketball\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D831CF6-6446-40AB-A584-588C74049DE0}|Basketball\\Basketball.vcxproj|solutionrelative:Basketball\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\msi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AllCPP\\C\u002B\u002B\\Basketball\\Basketball\\Basketball\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\msi\\my_dir\\Basketball\\Basketball\\main.cpp",
               "RelativeDocumentMoniker": "Basketball\\main.cpp",
-              "ToolTip": "C:\\Users\\msi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AllCPP\\C\u002B\u002B\\Basketball\\Basketball\\Basketball\\main.cpp",
+              "ToolTip": "C:\\Users\\msi\\my_dir\\Basketball\\Basketball\\main.cpp",
               "RelativeToolTip": "Basketball\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIBAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-03T09:59:24.324Z",
               "EditorCaption": ""
